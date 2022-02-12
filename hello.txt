@@ -1,3 +1,4 @@
 HELLO
 hallo
 squash1
+squash2
